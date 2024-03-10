@@ -4,7 +4,7 @@
 
 <br />
 
-🚀 Sou um desenvolvedor de software apaixonado por criar soluções inovadoras que superam as expectativas dos usuários. Com expertise em desenvolvimento em diversas áreas, como integrações server-side, aplicativos móveis e contribuições para projetos de código aberto, estou comprometido em entregar resultados excepcionais em cada empreendimento.
+🚀 Sou desenvolvedor backend, com experiência em JavaScript/Node.js, integrando bancos de dados SQL e NoSQL e implementando APIs de forma contínua. Em relação ao fullstack, tenho preferência pelo backend, mas também me adapto facilmente ao frontend. Além disso, tenho habilidades no desenvolvimento de aplicativos móveis e contribuo regularmente para projetos open source, além de manter meu site atualizado regularmente.
 
 🤝 Entusiasmado em contribuir com meu conhecimento e energia a projetos desafiadores e equipes dinâmicas.
 

@@ -6,8 +6,6 @@
 
 🚀 Como desenvolvedor backend, tenho expertise em JavaScript/Node.js, integrando bancos de dados SQL e NoSQL e implementando APIs. Embora prefira o backend, também me adapto facilmente ao frontend e possuo habilidades no desenvolvimento de aplicativos móveis. Além disso, contribuo regularmente para projetos open source.
 
-🤝 Entusiasmado em contribuir com meu conhecimento e energia a projetos desafiadores e equipes dinâmicas.
-
 📧 Entre em contato: **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniel-de-melo-sousa)**
 
 <br />

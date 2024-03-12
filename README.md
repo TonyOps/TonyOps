@@ -4,7 +4,7 @@
 
 <br />
 
-🚀 Sou desenvolvedor backend, com experiência em JavaScript/Node.js, integrando bancos de dados SQL e NoSQL e implementando APIs de forma contínua. Em relação ao fullstack, tenho preferência pelo backend, mas também me adapto facilmente ao frontend. Além disso, tenho habilidades no desenvolvimento de aplicativos móveis e contribuo regularmente para projetos open source, além de manter meu site atualizado regularmente.
+🚀 Como desenvolvedor backend, tenho expertise em JavaScript/Node.js, integrando bancos de dados SQL e NoSQL e implementando APIs. Embora prefira o backend, também me adapto facilmente ao frontend e possuo habilidades no desenvolvimento de aplicativos móveis. Além disso, contribuo regularmente para projetos open source.
 
 🤝 Entusiasmado em contribuir com meu conhecimento e energia a projetos desafiadores e equipes dinâmicas.
 
